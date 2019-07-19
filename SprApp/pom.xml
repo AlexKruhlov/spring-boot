@@ -7,6 +7,7 @@
     <modules>
         <module>app-listener</module>
         <module>environment</module>
+        <module>argument</module>
     </modules>
 
     <parent>

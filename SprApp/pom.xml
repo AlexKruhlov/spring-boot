@@ -8,6 +8,7 @@
         <module>app-listener</module>
         <module>environment</module>
         <module>argument</module>
+        <module>app-runner</module>
     </modules>
 
     <parent>

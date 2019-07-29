@@ -11,6 +11,7 @@
         <module>app-runner</module>
         <module>app-exit</module>
         <module>json-env-prop</module>
+        <module>random-prop</module>
     </modules>
 
     <parent>

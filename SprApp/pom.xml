@@ -10,6 +10,7 @@
         <module>argument</module>
         <module>app-runner</module>
         <module>app-exit</module>
+        <module>json-env-prop</module>
     </modules>
 
     <parent>

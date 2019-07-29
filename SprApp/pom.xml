@@ -9,6 +9,7 @@
         <module>environment</module>
         <module>argument</module>
         <module>app-runner</module>
+        <module>app-exit</module>
     </modules>
 
     <parent>

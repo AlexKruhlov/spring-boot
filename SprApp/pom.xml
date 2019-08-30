@@ -9,9 +9,9 @@
         <module>environment</module>
         <module>argument</module>
         <module>app-runner</module>
-        <module>app-exit</module>
         <module>json-env-prop</module>
         <module>random-prop</module>
+        <module>type-safe-prop</module>
     </modules>
 
     <parent>

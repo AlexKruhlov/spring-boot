@@ -1,0 +1,3 @@
+my:
+  run: true
+  priority: 1
